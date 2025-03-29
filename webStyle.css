@@ -1,0 +1,14 @@
+#title {
+    color: rgb(209, 68, 68);
+}
+
+ul index {
+    text-align:start;
+}
+
+* {
+    overflow: auto;
+    text-align: center;
+    background-color: rgb(1, 17, 22);
+    color: white;
+}
